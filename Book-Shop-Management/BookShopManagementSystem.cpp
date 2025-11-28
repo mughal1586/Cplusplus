@@ -411,4 +411,4 @@ void generateReceipt(string NameofBook, int checkstock, int price, int total) {
 	cout << "\t\t\t|                                      |           |          |" << endl;
 	cout << "\t\t\t|                                      |           |          |" << endl;
 	cout << "\t\t\t|                                      |           |          |" << endl;
-	cout << "\t\t\t|-----------------------------
+	cout << "\t\t\t|-------------------------------------------------------------|" << endl;
